@@ -76,7 +76,8 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 
 # OUTPUT
-[Ex6_Prompt_Engineering_Analysis_Report.pdf](https://github.com/user-attachments/files/27766803/Ex6_Prompt_Engineering_Analysis_Report.pdf)
+[Ex5_Prompt_Engineering_Analysis_Report.pdf](https://github.com/user-attachments/files/27767042/Ex5_Prompt_Engineering_Analysis_Report.pdf)
+
 
 
 # RESULT: 
