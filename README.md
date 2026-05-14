@@ -2,7 +2,8 @@
 
 # EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
 
-# Aim: To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
+# Aim: 
+To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
 
 ### AI Tools Required: 
 
@@ -32,7 +33,51 @@ A table comparing ChatGPT's responses to naïve and basic prompts across all sce
 Analysis of how prompt clarity impacts the quality, accuracy, and depth of ChatGPT’s outputs.
 Summary of findings with insights on how to structure prompts for optimal results when using ChatGPT.
 
+# PROMPT:
+**Role:** Act as a Senior Research Analyst and Technical Writer specializing in AI and Prompt Engineering.
+
+**Task:** Generate a comprehensive, 6-page professional report titled "Prompt Engineering Comparative Analysis: Evaluating ChatGPT Performance—Naïve vs. Basic Structured Prompts".
+
+**Context:** The report must analyze how ChatGPT performs when given "Naïve" (unstructured) versus "Basic/Refined" (structured) prompts. The goal is to evaluate the impact on Quality, Accuracy, and Depth.
+
+**Requirements & Content:**
+
+1. **Executive Summary:** Highlight that structured prompts improve technical accuracy and stylistic adherence by 40-60%.
+
+
+2. **Methodology:** Define the prompt archetypes (Naïve vs. Refined) and the grading metrics (Quality, Accuracy, Depth).
+
+
+3. **Comparison Table:** Create a table comparing performance across five scenarios: Creative Story, Factual Query, Summarization, Technical Advice, and Coding.
+
+
+4. **In-Depth Analysis:** Detail specific examples, such as explaining "Three-Schema Architecture" or creative storytelling, showing how constraints improve output.
+
+
+5. **Synthesis of Findings:** Explain the correlation between prompt clarity and the pillars of Accuracy, Depth, and Quality.
+
+
+6. **Recommendations:** Provide a 5-step framework for optimal prompt structure (Role, Task, Context, Constraints, Format).
+
+
+
+**Formatting Instructions:**
+
+* Use clear headings and subheadings (H1, H2, H3).
+
+
+* Use bullet points for readability and tables for data comparison.
+
+
+* Include placeholders for diagrams or charts to illustrate data trends.
+
+
+* Ensure the tone is academic yet accessible, suitable for a professional business or research setting.
+
 
 # OUTPUT
+[Ex6_Prompt_Engineering_Analysis_Report.pdf](https://github.com/user-attachments/files/27766803/Ex6_Prompt_Engineering_Analysis_Report.pdf)
 
-# RESULT: The prompt for the above said problem executed successfully
+
+# RESULT: 
+The prompt for the above said problem executed successfully
